@@ -79,6 +79,8 @@ Here is a video walkthrough on creating dashboards.
 ## SquaredUp for Azure
 [SquaredUp for Azure](https://squaredup.com/squaredup-for-azure/) provides powerful real-time dashboards designed for your Microsoft Azure applications and cloud hosted infrastructure. It includes native support for querying Azure metrics data using Kusto Query Language (KQL) to create fully interactive, sharable dashboards.
 
+![Screenshot shows SquaredUp for Azure visualizations](media/visualizations/SquaredUp-for-Azure.png)
+
 ### Advantages
 - Deep integration with Azure utilizing Resource Graph, Cost Management and more. 
 - Native support for both metrics and logs 
